@@ -12,11 +12,13 @@ Please view other readmes in scala-api, flovver-app, and documents
 
 Based on: https://github.com/kenneth-rosario/scala-npm-postgres-docker-boilerplate
 
-Application figma mock up design prototype : https://www.figma.com/proto/Sa8Rgvi0cjKM6NcFmi6MaK/app-mockup?node-id=168%3A1&scaling=min-zoom
+Application Documentation: [Click Here!](https://drive.google.com/file/d/1EspeLxWwWgmuaWhciLgrg0-zB0hr-1vh/view?usp=sharing)
 
-Application expo demo link : https://expo.io/@flovver-corp/Flovver
+Application figma mock up design prototype : [Click Here!](https://www.figma.com/proto/Sa8Rgvi0cjKM6NcFmi6MaK/app-mockup?node-id=168%3A1&scaling=min-zoom)
 
-Application video demo link : https://www.youtube.com/watch?v=ZN5GHsWceT0&feature=youtu.be 
+Application expo demo link : [Click Here!](https://expo.io/@flovver-corp/Flovver)
+
+Application video demo link : [Click Here!](https://www.youtube.com/watch?v=ZN5GHsWceT0&feature=youtu.be)
 
 # Pre-requisites:
 * Download the expo app in your phone for testing app  
